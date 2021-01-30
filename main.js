@@ -12,7 +12,7 @@ const projects = [
   }
 
   {
-    title: "Cool Project", 
+    title: "Cool Project 2", 
     screenshot: "http://gotoflashgames.com/files/file/033.jpg", 
     description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
@@ -22,7 +22,7 @@ const projects = [
   }
 
   {
-    title: "Cool Project", 
+    title: "Cool Project 3", 
     screenshot: "http://gotoflashgames.com/files/file/033.jpg", 
     description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
