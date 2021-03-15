@@ -1,4 +1,4 @@
-const navbar = () => {
+const navBar = () => {
   document.querySelector('#nav').innerHTML = `
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#">Jim Conner</a>
@@ -17,4 +17,4 @@ const navbar = () => {
 </nav>`;
 };
 
-export default navbar;
+export default navBar;
