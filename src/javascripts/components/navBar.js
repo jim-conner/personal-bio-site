@@ -1,27 +1,20 @@
 const navbar = () => {
   document.querySelector('#nav').innerHTML = `
-    <nav id='navbar' class='navbar navbar-dark bg-dark'>
-      <a class='navbar-brand' href='#'>Jim Conner</a>
-      <ul class='nav nav-pills'>
-        <li class='nav-item'>
-          <a class='nav-link' href='#bio'>Meet Jim</a>
-        </li>
-        <li class='nav-item'>
-          <a class='nav-link' href='#projects'>Projects</a>  
-        </li>
-        <li>
-          <a class='nav-link' href='#tech'>Technologies</a>
-        </li>
-      </ul>
-    </nav>
-    <div data-spy='scroll' data-target='navbar' data-offset='0'>
-      <h4 id='bio'>Meet Jim</h4>
-      <p>...</p>
-      <h4 id='projects'>Projects</h4>
-      <p>...</p>
-      <h4 id='tech'>Technologies</h4>
-      <p>...</p>
-    </div>`;
+  <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Jim Conner</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto">
+      <a class="nav-link active" href="#">Home<span class="sr-only">(current)</span></a>
+      <a class="nav-link active" href="#projects">Projects</a>
+      <a class="nav-link active" href="#bio">Bio</a>
+      <a class="nav-link active" href="#tech">Technologies</a>
+      <a class="nav-link active" href="#contact">Contact</a>
+    </div>
+  </div>
+</nav>`;
 };
 
 export default navbar;

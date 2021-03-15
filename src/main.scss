@@ -4,3 +4,20 @@
 body {
   background-color: rgb(31, 1, 99);
 }
+
+h4 {
+  color:antiquewhite;
+  text-align: center;
+}
+
+hr {
+  color:antiquewhite;
+}
+
+#projects-container {
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
