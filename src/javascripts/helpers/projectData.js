@@ -7,11 +7,9 @@ const getProjects = () => new Promise((resolve, reject) => {
   console.warn(`${dbUrl}/projects.json`);
   axios.get(`${dbUrl}/projects.json`)
     .then((response) => {
-      if (response.data) {
-        const projectsArray = Object.values(response.data);
-        resolve(projectsArray);
-        console.warn(projectsArray);
-      }
+      const projectsArray = Object.values(response.data);
+      resolve(projectsArray);
+      console.warn(projectsArray);
     })
     .catch((error) => reject(error));
 });
