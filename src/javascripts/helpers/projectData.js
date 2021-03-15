@@ -1,56 +1,56 @@
 const projects = [
   {
-    title: 'Cool Project 1',
-    screenshot: 'http://gotoflashgames.com/files/file/033.jpg',
-    description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
+    title: 'Tamagotchi',
+    image: 'https://raw.githubusercontent.com/jim-conner/ASSIGNMENT-Tamagotchi/main/Tamagotchi%20screenshot.jpg',
+    description: 'Relive the 90s with this Tamagotchi app.', // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
     available: true,
-    url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
-    githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
+    url: 'https://jdc-tamagotchi.netlify.app', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
+    githubUrl: 'https://github.com/jim-conner/ASSIGNMENT-Tamagotchi',
   },
   {
-    title: 'Cool Project 2',
-    screenshot: 'http://gotoflashgames.com/files/file/033.jpg',
-    description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
+    title: 'GitSub',
+    image: 'https://raw.githubusercontent.com/jim-conner/personal-bio-site/main/Gitsub%20screenshot.jpg',
+    description: 'Our Team designed Gitsub to simulate the Github user enviornment.', // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
     available: true,
-    url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
-    githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
+    url: 'https://jdc-gitsub.netlify.app/', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
+    githubUrl: 'https://github.com/jim-conner/gitsub-e14-best-team',
   },
 
   {
     title: 'Cool Project 3',
-    screenshot: 'http://gotoflashgames.com/files/file/033.jpg',
+    image: 'https://dummyimage.com/214x199.png/5fa2dd/ffffff',
     description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
     available: true,
     url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
-    githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
+    githubUrl: '',
   },
 
   {
     title: 'Cool Project 4',
-    screenshot: 'http://gotoflashgames.com/files/file/033.jpg',
+    image: 'https://dummyimage.com/214x199.png/5fa2dd/ffffff',
     description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
     available: true,
     url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
-    githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
+    githubUrl: '',
   },
 
   {
     title: 'Cool Project 5',
-    screenshot: 'http://gotoflashgames.com/files/file/033.jpg',
+    image: 'https://dummyimage.com/214x199.png/5fa2dd/ffffff',
     description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
-    available: false,
+    available: true,
     url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
-    githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
+    githubUrl: '',
   },
 ];
 
