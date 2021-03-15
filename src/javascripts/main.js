@@ -1,16 +1,9 @@
-import domBuilder from './components/domBuilder';
-import navbar from './components/navbar';
-import footer from './components/footer';
-import showProjects from './components/projects';
-import projects from './helpers/projectData';
 import 'bootstrap';
 import '../main.scss';
+import startApp from './views.js/startApp';
 
 const init = () => {
-  domBuilder();
-  navbar();
-  footer();
-  showProjects(projects);
+  startApp();
 };
 
 init();
