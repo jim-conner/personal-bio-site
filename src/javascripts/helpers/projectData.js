@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'GitSub',
     image: 'https://raw.githubusercontent.com/jim-conner/personal-bio-site/main/Gitsub%20screenshot.jpg',
-    description: 'Our Team designed Gitsub to simulate the Github user enviornment.', // A good project description includes 'the what', 'the why', and 'the how'.
+    description: 'Our Team designed Gitsub to simulate the Github user environment.', // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github',
     available: true,

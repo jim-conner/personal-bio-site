@@ -1,7 +1,7 @@
 const footer = () => {
   document.querySelector('#footer').innerHTML = `
   <!-- Footer -->
-  <footer class="bg-dark text-center text-white">
+  <footer class="bg-dark sticky-bottom text-center text-white">
     <!-- Grid container -->
     <div class="container p-4">
       <!-- Section: Social media -->
