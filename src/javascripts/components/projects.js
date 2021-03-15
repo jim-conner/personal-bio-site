@@ -1,6 +1,4 @@
-// import printToDom from './printToDom';
-
-const getProjects = (projectsArray) => {
+const showProjects = (projectsArray) => {
   projectsArray.forEach((project) => {
     if (project.available === true) {
       document.querySelector('#projects-container').innerHTML += `<div class="card my-2 text-white bg-dark" style="width: 18rem;">
@@ -17,4 +15,4 @@ const getProjects = (projectsArray) => {
   });
 };
 
-export default getProjects;
+export default showProjects;
