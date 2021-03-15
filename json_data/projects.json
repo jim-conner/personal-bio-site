@@ -1,0 +1,32 @@
+{
+  "-MVrP9XdrPqQYiNToL4D": {
+    "available": true,
+    "deployUrl": "https://jdc-tamagotchi.netlify.app",
+    "description": "Relive the 90s with the Tamagotchi app. Take care of your Tamagotchi pet and don't forget to feed it!",
+    "firebaseKey": "-MVrP9XdrPqQYiNToL4D",
+    "gitHubUrl": "https://github.com/jim-conner/ASSIGNMENT-Tamagotchi",
+    "image": "https://raw.githubusercontent.com/jim-conner/ASSIGNMENT-Tamagotchi/main/Tamagotchi%20screenshot.jpg",
+    "techUsed": "HTML, SCSS, Vanilla JavaScript, Version Control with Github",
+    "title": "Tamagotchi"
+  },
+  "-MVrPdDMbAbwRuxx6a2E": {
+    "available": true,
+    "deployUrl": "https://jdc-gitsub.netlify.app/",
+    "description": "Our team designed Gitsub to simulate the Github user environment and offer a seamless experience of GitHub functionality.",
+    "firebaseKey": "-MVrPdDMbAbwRuxx6a2E",
+    "gitHubUrl": "https://github.com/jim-conner/gitsub-e14-best-team",
+    "image": "https://raw.githubusercontent.com/jim-conner/personal-bio-site/main/Gitsub%20screenshot.jpg",
+    "techUsed": "HTML, SCSS, Vanilla JavaScript, Version Control with Github",
+    "title": "GitSub"
+  },
+  "-MVrQWlYlN2nYjZ9cDo1": {
+    "available": true,
+    "deployUrl": "https://jdc-bear-watcher.netlify.app/",
+    "description": "This is the best project",
+    "firebaseKey": "-MVrQWlYlN2nYjZ9cDo1",
+    "gitHubUrl": "https://github.com/jim-conner/ASSIGNMENT-Bear-Watcher",
+    "image": "https://github.com/jim-conner/ASSIGNMENT-Bear-Watcher/blob/main/Bear-watcher.png?raw=true",
+    "techUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "title": "Bearwatcher"
+  }
+}
