@@ -6,9 +6,9 @@ const showProjects = (projectsArray) => {
       <div class="card-body">
         <h5 class="card-title">${project.title}</h5>
         <p class="card-text">${project.description}</p>
-        <p class="card-text">${project.technologiesUsed}</p>
-        <a href="${project.githubUrl}" class="card-link">GitHub Repo</a>
-        <a href="${project.url}" class="card-link">Deployed App</a>
+        <p class="card-text">${project.techUsed}</p>
+        <a href="${project.gitHubUrl}" class="card-link">GitHub Repo</a>
+        <a href="${project.deployUrl}" class="card-link">Deployed App</a>
       </div>
     </div>`;
     }
