@@ -1,6 +1,6 @@
 # Jim Conner's Bio Site
 
-## [Netlify Link] (https://jim-conner-personal-bio-site.netlify.app/)
+## [Netlify Link](https://jim-conner-personal-bio-site.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06cc3e36-eb9b-4046-b517-30260b1ea5ef/deploy-status)](https://app.netlify.com/sites/meet-jim-conner/deploys)
 
 ### Overview
