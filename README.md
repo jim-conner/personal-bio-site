@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06cc3e36-eb9b-4046-b517-30260b1ea5ef/deploy-status)](https://app.netlify.com/sites/meet-jim-conner/deploys)
 
 ### Overview
-My Bio Site 
+Get to know Jim Conner and learn about his background and coding journey.
 
 ### Description of the user
 The user is interested in learning more about Jim's background, technologies, and projects.
